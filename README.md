@@ -13,7 +13,6 @@ https://trello.com/b/W1kdrPef/оценка-рисков-иб-информаци�
 https://github.com/VanyaWrestling/IS_Risk_Management_of_University_actives
 
 
-
 Особенности проекта:
 
 
