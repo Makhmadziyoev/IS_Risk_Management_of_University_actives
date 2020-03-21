@@ -16,8 +16,10 @@ https://github.com/VanyaWrestling/IS_Risk_Management_of_University_actives
 
 Особенности проекта:
 
+  
+Преимущества проекта
 
-Преимущества проекта:
+
 
 
 ## Участники
